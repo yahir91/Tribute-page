@@ -1,0 +1,10 @@
+figure {
+    position: relative;
+    text-align: center;
+    
+}
+figure img {
+    margin: o auto;
+    max-width: 100%;
+    position: relative;
+}
